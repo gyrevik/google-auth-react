@@ -44,6 +44,7 @@ http://localhost:5173/
     <li>React</li>
     <li>TypeScript</li>
     <li>Firebase</li>
+    <li>SCSS</li>
     <li>Vitejs</li>
 </ul>
 
