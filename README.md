@@ -7,7 +7,7 @@ A simple authentication project with React, TypeScript and Firebase.
 ### Clone
 
 ```
-git clone 
+git clone https://github.com/jovimoura/google-auth-react
 ```
 
 ### Access the folder
@@ -34,9 +34,9 @@ npm run dev
 http://localhost:5173/
 ```
 
-## Image of prohect
+## Image of project
 
-<img style="width: 600px; height: 300px " src="./public/images/print.png">
+<img style="width: 600px; height: 300px " src="./src/assets/images/print.png">
 
 ## Tecnologies and Libs
 
