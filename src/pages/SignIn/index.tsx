@@ -19,12 +19,12 @@ export function SignIn() {
       <div className="user">
         {user.displayName && (
           <>
-            <h1>Bem vindo!</h1>
+            <h1>Welcome!</h1>
             <div>
-              <strong>Nome: {user.displayName}</strong>
+              <strong>Name: {user.displayName}</strong>
             </div>
             <div>
-              <strong>E-mail:</strong> <small>{user.email}</small>
+              <strong>Email:</strong><small>{user.email}</small>
             </div>
           </>
         )}
